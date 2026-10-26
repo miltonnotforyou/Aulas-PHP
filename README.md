@@ -27,17 +27,3 @@ Centralizar o aprendizado da linguagem PHP, documentando a evolução desde a l�
 
 ---
 
-## 📁 Estrutura do Repositório
-
-> 💡 *Dica: Adapte os nomes das pastas abaixo de acordo com a organização real dos seus arquivos no repositório.*
-
-```text
-AulasPHP/
-├── 📂 aula01-variaveis/       # Conceitos iniciais e tipos de dados
-├── 📂 aula02-condicionais/    # Estruturas de decisão (if/else/switch)
-├── 📂 aula03-repeticao/       # Loops (for, while, foreach)
-├── 📂 aula04-arrays-funcoes/  # Manipulação de listas e modularização
-├── 📂 aula05-formularios/     # Tratamento de requisições GET e POST
-├── 📂 aula06-sessoes/         # Login, autenticação e cookies
-├── 📂 aula07-poo/             # Classes, objetos e métodos
-└── 📂 aula08-crud-mysql/      # Integração completa com banco de dados
